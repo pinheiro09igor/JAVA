@@ -1,0 +1,900 @@
+1930#GRUPO A#13#07#França#4#1#México#Montevidéu
+1930#GRUPO A#15#07#Argentina#1#0#França#Montevidéu
+1930#GRUPO A#16#07#Chile#3#0#México#Montevidéu
+1930#GRUPO A#19#07#França#0#1#Chile#Montevidéu
+1930#GRUPO A#19#07#Argentina#6#3#México#Montevidéu
+1930#GRUPO A#22#07#Argentina#3#1#Chile#Montevidéu
+1930#GRUPO B#14#07#Iugoslávia#2#1#Brasil#Montevidéu
+1930#GRUPO B#17#07#Iugoslávia#4#0#Bolivia#Montevidéu
+1930#GRUPO B#20#07#Brasil#4#0#Bolivia#Montevidéu
+1930#GRUPO C#14#07#Romênia#3#1#Peru#Montevidéu
+1930#GRUPO C#18#07#Uruguai#1#0#Peru#Montevidéu
+1930#GRUPO C#21#07#Uruguai#4#0#Romênia#Montevidéu
+1930#GRUPO D#13#07#Estados Unidos#3#0#Bélgica#Montevidéu
+1930#GRUPO D#17#07#Estados Unidos#3#0#Paraguai#Montevidéu
+1930#GRUPO D#20#07#Paraguai#1#0#Bélgica#Montevidéu
+1930#SEMIFINAL#26#07#Argentina#6#1#Estados Unidos#Montevidéu
+1930#SEMIFINAL#27#07#Uruguai#6#1#Iugoslávia#Montevidéu
+1930#FINAL#30#07#Uruguai#4#2#Argentina#Montevidéu
+1934#OITAVAS-DE-FINAL#27#05#Itália#7#1#Estados Unidos#Roma
+1934#OITAVAS-DE-FINAL#27#05#Tchecoslováquia#2#1#Romênia#Trieste
+1934#OITAVAS-DE-FINAL#27#05#Alemanha#5#2#Bélgica#Florence
+1934#OITAVAS-DE-FINAL#27#05#Áustria#3#2#França#Turim
+1934#OITAVAS-DE-FINAL#27#05#Espanha#3#1#Brasil#Turim
+1934#OITAVAS-DE-FINAL#27#05#Suíça#3#2#Holanda#Milão
+1934#OITAVAS-DE-FINAL#27#05#Suécia#3#2#Argentina#Milão
+1934#OITAVAS-DE-FINAL#27#05#Hungria#4#2#Egito#Nápoli
+1934#QUARTAS-DE-FINAL#31#05#Alemanha#2#1#Suécia#Milão
+1934#QUARTAS-DE-FINAL#31#05#Áustria#2#1#Hungria#Bologna
+1934#QUARTAS-DE-FINAL#31#05#Itália#1#1#Espanha#Florence
+1934#QUARTAS-DE-FINAL#01#06#Itália#1#0#Espanha#Florence
+1934#QUARTAS-DE-FINAL#31#05#Tchecoslováquia#3#2#Suíça#Turim
+1934#SEMIFINAL#03#06#Itália#1#0#Áustria#Milão
+1934#SEMIFINAL#03#06#Tchecoslováquia#3#1#Alemanha#Roma
+1934#Disp. 3°. Lugar#07#06#Alemanha#3#2#Áustria#Nápoli
+1934#FINAL#10#06#Itália#2#1#Tchecoslováquia#Roma
+1938#OITAVAS-DE-FINAL#04#06#Suíça#1#1#Alemanha#Paris
+1938#OITAVAS-DE-FINAL#09#06#Suíça#4#2#Alemanha#Paris
+1938#OITAVAS-DE-FINAL#05#06#Cuba#3#3#Romênia#Toulouse
+1938#OITAVAS-DE-FINAL#09#06#Cuba#2#1#Romênia#Toulouse
+1938#OITAVAS-DE-FINAL#05#06#Tchecoslováquia#3#0#Holanda#Le Havre
+1938#OITAVAS-DE-FINAL#05#06#França#3#1#Bélgica#Paris
+1938#OITAVAS-DE-FINAL#05#06#Hungria#6#0#Indonésia#Reims
+1938#OITAVAS-DE-FINAL#05#06#Itália#2#1#Noruega#Marseilles
+1938#OITAVAS-DE-FINAL#05#06#Brasil#6#5#Polônia#Strasbourg
+1938#QUARTAS-DE-FINAL#12#06#Itália#3#1#França#Paris
+1938#QUARTAS-DE-FINAL#12#06#Suécia#8#0#Cuba#Antibes
+1938#QUARTAS-DE-FINAL#12#06#Hungria#2#0#Suíça#Lille
+1938#QUARTAS-DE-FINAL#12#06#Brasil#1#1#Tchecoslováquia#Bordeaux
+1938#QUARTAS-DE-FINAL#14#06#Tchecoslováquia#1#2#Brasil#Bordeaux
+1938#SEMIFINAL#16#06#Hungria#5#1#Suécia#Paris
+1938#SEMIFINAL#16#06#Itália#2#1#Brasil#Marseilles
+1938#Disp. 3°. Lugar#19#06#Brasil#4#2#Suécia#Marseilles
+1938#FINAL#19#06#Itália#4#2#Hungria#Paris
+1950#GRUPO A#24#06#Brasil#4#0#México#Rio de Janeiro
+1950#GRUPO A#25#06#Iugoslávia#3#0#Suíça#Belo Horizonte
+1950#GRUPO A#28#06#Brasil#2#2#Suíça#São Paulo
+1950#GRUPO A#29#06#Iugoslávia#4#1#México#Porto Alegre
+1950#GRUPO A#01#07#Brasil#2#0#Iugoslávia#Rio de Janeiro
+1950#GRUPO A#02#07#Suíça#2#1#México#Porto Alegre
+1950#GRUPO B#25#06#Inglaterra#2#0#Chile#Rio de Janeiro
+1950#GRUPO B#25#06#Espanha#3#1#Estados Unidos#Curitiba
+1950#GRUPO B#29#06#Espanha#2#0#Chile#Rio de Janeiro
+1950#GRUPO B#29#06#Estados Unidos#1#0#Inglaterra#Belo Horizonte
+1950#GRUPO B#02#07#Espanha#1#0#Inglaterra#Rio de Janeiro
+1950#GRUPO B#02#07#Chile#5#2#Estados Unidos#Recife
+1950#GRUPO C#25#06#Suécia#3#2#Itália#São Paulo
+1950#GRUPO C#29#06#Suécia#2#2#Paraguai#Curitiba
+1950#GRUPO C#02#07#Itália#2#0#Paraguai#São Paulo
+1950#GRUPO D#02#07#Uruguai#8#0#Bolivia#Belo Horizonte
+1950#FASE FINAL#03#07#Brasil#7#1#Suécia#Rio de Janeiro
+1950#FASE FINAL#09#07#Espanha#2#2#Uruguai#São Paulo
+1950#FASE FINAL#13#07#Brasil#6#1#Espanha#Rio de Janeiro
+1950#FASE FINAL#13#07#Uruguai#3#2#Suécia#São Paulo
+1950#FASE FINAL#16#07#Suécia#3#1#Espanha#São Paulo
+1950#FASE FINAL#16#07#Uruguai#2#1#Brasil#Rio de Janeiro
+1954#GRUPO A#16#06#Iugoslávia#1#0#França#Lausanne
+1954#GRUPO A#16#06#Brasil#5#0#México#Genebra
+1954#GRUPO A#19#06#Brasil#1#1#Iugoslávia#Lausanne
+1954#GRUPO A#19#06#França#3#2#México#Genebra
+1954#GRUPO B#17#06#Hungria#9#0#Coreia do Sul#Zurique
+1954#GRUPO B#17#06#Alemanha Ocidental#4#1#Turquia#Berna
+1954#GRUPO B#20#06#Hungria#8#3#Alemanha Ocidental#Basel
+1954#GRUPO B#20#06#Turquia#7#0#Coreia do Sul#Genebra
+1954#GRUPO B#23#06#Alemanha Ocidental#7#2#Turquia#Zurique
+1954#GRUPO C#16#06#Áustria#1#0#Escócia#Zurique
+1954#GRUPO C#16#06#Uruguai#2#0#Tchecoslováquia#Berna
+1954#GRUPO C#19#06#Áustria#5#0#Tchecoslováquia#Zurique
+1954#GRUPO C#19#06#Uruguai#7#0#Escócia#Basel
+1954#GRUPO D#17#06#Inglaterra#4#4#Bélgica#Basel
+1954#GRUPO D#17#06#Suíça#2#1#Itália#Lausanne
+1954#GRUPO D#20#06#Inglaterra#2#0#Suíça#Berna
+1954#GRUPO D#20#06#Itália#4#1#Bélgica#Lugano
+1954#GRUPO D#23#06#Suíça#4#1#Itália#Basel
+1954#QUARTAS-DE-FINAL#26#06#Áustria#7#5#Suíça#Lausanne
+1954#QUARTAS-DE-FINAL#26#06#Uruguai#4#2#Inglaterra#Basel
+1954#QUARTAS-DE-FINAL#27#06#Hungria#4#2#Brasil#Berna
+1954#QUARTAS-DE-FINAL#27#06#Alemanha Ocidental#2#0#Iugoslávia#Genebra
+1954#SEMIFINAL#30#06#Hungria#4#2#Uruguai#Lausanne
+1954#SEMIFINAL#30#06#Alemanha Ocidental#6#1#Áustria#Basel
+1954#Disp. 3°. Lugar#03#07#Áustria#3#1#Uruguai#Zurique
+1954#FINAL#04#07#Alemanha Ocidental#3#2#Hungria#Zurique
+1958#GRUPO A#08#06#Irlanda do Norte#1#0#Tchecoslováquia#Halmstad
+1958#GRUPO A#08#06#Alemanha Ocidental#3#1#Argentina#Malmoe
+1958#GRUPO A#11#06#Argentina#3#1#Irlanda do Norte#Halmstad
+1958#GRUPO A#11#06#Alemanha Ocidental#2#2#Tchecoslováquia#Halsingborg
+1958#GRUPO A#15#06#Alemanha Ocidental#2#2#Irlanda do Norte#Malmoe
+1958#GRUPO A#15#06#Tchecoslováquia#6#1#Argentina#Halsingborg
+1958#GRUPO A#17#06#Irlanda do Norte#2#1#Tchecoslováquia#Malmoe
+1958#GRUPO B#08#06#Escócia#1#1#Iugoslávia#Vasteraas
+1958#GRUPO B#08#06#França#7#3#Paraguai#Norrkoping
+1958#GRUPO B#11#06#Paraguai#3#2#Escócia#Norrkoping
+1958#GRUPO B#11#06#Iugoslávia#3#2#França#Vasteraas
+1958#GRUPO B#15#06#França#2#1#Escócia#Orebro
+1958#GRUPO B#15#06#Paraguai#3#3#Iugoslávia#Eskilstuna
+1958#GRUPO C#08#06#Suécia#3#0#México#Solna
+1958#GRUPO C#08#06#Hungria#1#1#País de Gales#Sandviken
+1958#GRUPO C#11#06#México#1#1#País de Gales#Solna
+1958#GRUPO C#12#06#Suécia#2#1#Hungria#Solna
+1958#GRUPO C#15#06#Suécia#0#0#País de Gales#Solna
+1958#GRUPO C#15#06#Hungria#4#0#México#Sandviken
+1958#GRUPO C#17#06#País de Gales#2#1#Hungria#Malmoe
+1958#GRUPO D#08#06#Brasil#3#0#Áustria#Uddevalla
+1958#GRUPO D#08#06#Inglaterra#2#2#União Soviética#Gotemborg
+1958#GRUPO D#11#06#União Soviética#2#0#Áustria#Boraas
+1958#GRUPO D#11#06#Brasil#0#0#Inglaterra#Gotemborg
+1958#GRUPO D#15#06#Áustria#2#2#Inglaterra#Boraas
+1958#GRUPO D#15#06#Brasil#2#0#União Soviética#Gotemborg
+1958#GRUPO D#17#06#União Soviética#1#0#Inglaterra#Gotemborg
+1958#QUARTAS-DE-FINAL#19#06#Suécia#2#0#União Soviética#Solna
+1958#QUARTAS-DE-FINAL#19#06#Alemanha Ocidental#1#0#Iugoslávia#Malmoe
+1958#QUARTAS-DE-FINAL#19#06#França#4#0#Irlanda do Norte#Norrkoping
+1958#QUARTAS-DE-FINAL#19#06#Brasil#1#0#País de Gales#Gotemborg
+1958#SEMIFINAL#24#06#Brasil#5#2#França#Solna
+1958#SEMIFINAL#24#06#Suécia#3#1#Alemanha Ocidental#Gotemborg
+1958#Disp. 3°. Lugar#26#06#França#6#3#Alemanha Ocidental#Gotemborg
+1958#FINAL#29#06#Brasil#5#2#Suécia#Solna
+1962#GRUPO A#30#05#Uruguai#2#1#Colômbia#Arica
+1962#GRUPO A#31#05#União Soviética#2#0#Iugoslávia#Arica
+1962#GRUPO A#02#06#Iugoslávia#3#1#Uruguai#Arica
+1962#GRUPO A#03#06#União Soviética#4#4#Colômbia#Arica
+1962#GRUPO A#06#06#União Soviética#2#1#Uruguai#Arica
+1962#GRUPO A#07#06#Iugoslávia#5#0#Colômbia#Arica
+1962#GRUPO B#30#05#Chile#3#1#Suíça#Santiago
+1962#GRUPO B#31#05#Itália#0#0#Alemanha Ocidental#Santiago
+1962#GRUPO B#02#06#Chile#2#0#Itália#Santiago
+1962#GRUPO B#03#06#Alemanha Ocidental#2#1#Suíça#Santiago
+1962#GRUPO B#06#06#Alemanha Ocidental#2#0#Chile#Santiago
+1962#GRUPO B#07#06#Itália#3#0#Suíça#Santiago
+1962#GRUPO C#30#05#Brasil#2#0#México#Viña del Mar
+1962#GRUPO C#31#05#Tchecoslováquia#1#0#Espanha#Viña del Mar
+1962#GRUPO C#02#06#Brasil#0#0#Tchecoslováquia#Viña del Mar
+1962#GRUPO C#03#06#Espanha#1#0#México#Viña del Mar
+1962#GRUPO C#06#06#Brasil#2#1#Espanha#Viña del Mar
+1962#GRUPO C#07#06#México#3#1#Tchecoslováquia#Viña del Mar
+1962#GRUPO D#30#05#Argentina#1#0#Bulgária#Rancagua
+1962#GRUPO D#31#05#Hungria#2#1#Inglaterra#Rancagua
+1962#GRUPO D#02#06#Inglaterra#3#1#Argentina#Rancagua
+1962#GRUPO D#03#06#Hungria#6#1#Bulgária#Rancagua
+1962#GRUPO D#06#06#Argentina#0#0#Hungria#Rancagua
+1962#GRUPO D#07#06#Bulgária#0#0#Inglaterra#Rancagua
+1962#QUARTAS-DE-FINAL#10#06#Chile#2#1#União Soviética#Arica
+1962#QUARTAS-DE-FINAL#10#06#Iugoslávia#1#0#Alemanha Ocidental#Santiago
+1962#QUARTAS-DE-FINAL#14#06#Brasil#3#1#Inglaterra#Viña del Mar
+1962#QUARTAS-DE-FINAL#14#06#Tchecoslováquia#1#0#Hungria#Rancagua
+1962#SEMIFINAL#13#06#Brasil#4#2#Chile#Santiago
+1962#SEMIFINAL#13#06#Tchecoslováquia#3#1#Iugoslávia#Viña del Mar
+1962#Disp. 3°. Lugar#16#06#Chile#1#0#Iugoslávia#Santiago
+1962#FINAL#17#06#Brasil#3#1#Tchecoslováquia#Santiago
+1966#GRUPO A#11#07#Inglaterra#0#0#Uruguai#Londres
+1966#GRUPO A#13#07#França#1#1#México#Londres
+1966#GRUPO A#15#07#Uruguai#2#1#França#Londres
+1966#GRUPO A#16#07#Inglaterra#2#0#México#Londres
+1966#GRUPO A#19#07#Uruguai#0#0#México#Londres
+1966#GRUPO A#20#07#Inglaterra#2#0#França#Londres
+1966#GRUPO B#12#07#Alemanha Ocidental#5#0#Suíça#Sheffield
+1966#GRUPO B#13#07#Argentina#2#1#Espanha#Birmingham
+1966#GRUPO B#15#07#Espanha#2#1#Suíça#Sheffield
+1966#GRUPO B#16#07#Argentina#0#0#Alemanha Ocidental#Birmingham
+1966#GRUPO B#19#07#Argentina#2#0#Suíça#Sheffield
+1966#GRUPO B#20#07#Alemanha Ocidental#2#1#Espanha#Birmingham
+1966#GRUPO C#12#07#Brasil#2#0#Bulgária#Liverpool
+1966#GRUPO C#13#07#Portugal#3#1#Hungria#Manchester
+1966#GRUPO C#16#07#Portugal#3#0#Bulgária#Manchester
+1966#GRUPO C#15#07#Hungria#3#1#Brasil#Liverpool
+1966#GRUPO C#19#07#Portugal#3#1#Brasil#Liverpool
+1966#GRUPO C#20#07#Hungria#3#1#Bulgária#Manchester
+1966#GRUPO D#12#07#União Soviética#3#0#Coreia do Norte#Middlesbrough
+1966#GRUPO D#13#07#Itália#2#0#Chile#Sunderland
+1966#GRUPO D#15#07#Chile#1#1#Coreia do Norte#Middlesbrough
+1966#GRUPO D#16#07#União Soviética#1#0#Itália#Sunderland
+1966#GRUPO D#19#07#Coreia do Norte#1#0#Itália#Middlesbrough
+1966#GRUPO D#20#07#União Soviética#2#1#Chile#Sunderland
+1966#QUARTAS-DE-FINAL#23#07#Inglaterra#1#0#Argentina#Londres
+1966#QUARTAS-DE-FINAL#23#07#Alemanha Ocidental#4#0#Uruguai#Sheffield
+1966#QUARTAS-DE-FINAL#23#07#Portugal#5#3#Coreia do Norte#Liverpool
+1966#QUARTAS-DE-FINAL#23#07#União Soviética#2#1#Hungria#Sunderland
+1966#SEMIFINAL#25#07#Alemanha Ocidental#2#1#União Soviética#Liverpool
+1966#SEMIFINAL#26#07#Inglaterra#2#1#Portugal#Londres
+1966#Disp. 3°. Lugar#28#07#Portugal#2#1#União Soviética#Londres
+1966#FINAL#30#07#Inglaterra#4#2#Alemanha Ocidental#Londres
+1970#GRUPO A#31#05#México#0#0#União Soviética#Cidade do México
+1970#GRUPO A#03#06#Bélgica#3#0#El Salvador#Cidade do México
+1970#GRUPO A#06#06#União Soviética#4#1#Bélgica#Cidade do México
+1970#GRUPO A#07#06#México#4#0#El Salvador#Cidade do México
+1970#GRUPO A#10#06#União Soviética#2#0#El Salvador#Cidade do México
+1970#GRUPO A#11#06#México#1#0#Bélgica#Cidade do México
+1970#GRUPO B#02#06#Uruguai#2#0#Israel#Puebla
+1970#GRUPO B#03#06#Itália#1#0#Suécia#Toluca
+1970#GRUPO B#06#06#Uruguai#0#0#Itália#Puebla
+1970#GRUPO B#07#06#Israel#1#1#Suécia#Toluca
+1970#GRUPO B#10#06#Suécia#1#0#Uruguai#Puebla
+1970#GRUPO B#11#06#Itália#0#0#Israel#Toluca
+1970#GRUPO C#02#06#Inglaterra#1#0#Romênia#Guadalajara
+1970#GRUPO C#03#06#Brasil#4#1#Tchecoslováquia#Guadalajara
+1970#GRUPO C#06#06#Romênia#2#1#Tchecoslováquia#Guadalajara
+1970#GRUPO C#07#06#Brasil#1#0#Inglaterra#Guadalajara
+1970#GRUPO C#10#06#Brasil#3#2#Romênia#Guadalajara
+1970#GRUPO C#11#06#Inglaterra#1#0#Tchecoslováquia#Guadalajara
+1970#GRUPO D#02#06#Peru#3#2#Bulgária#León
+1970#GRUPO D#03#06#Alemanha Ocidental#2#1#Marrocos#León
+1970#GRUPO D#06#06#Peru#3#0#Marrocos#León
+1970#GRUPO D#07#06#Alemanha Ocidental#5#2#Bulgária#León
+1970#GRUPO D#10#06#Alemanha Ocidental#3#1#Peru#León
+1970#GRUPO D#11#06#Bulgária#1#1#Marrocos#León
+1970#QUARTAS-DE-FINAL#14#06#Uruguai#1#0#União Soviética#Cidade do México
+1970#QUARTAS-DE-FINAL#14#06#Itália#4#1#México#Toluca
+1970#QUARTAS-DE-FINAL#14#06#Brasil#4#2#Peru#Guadalajara
+1970#QUARTAS-DE-FINAL#14#06#Alemanha Ocidental#3#2#Inglaterra#León
+1970#SEMIFINAL#17#06#Brasil#3#1#Uruguai#Guadalajara
+1970#SEMIFINAL#17#06#Itália#4#3#Alemanha Ocidental#Cidade do México
+1970#Disp. 3°. Lugar#20#06#Alemanha Ocidental#1#0#Uruguai#Cidade do México
+1970#FINAL#21#06#Brasil#4#1#Itália#Cidade do México
+1974#GRUPO A#14#06#Alemanha Ocidental#1#0#Chile#Berlim
+1974#GRUPO A#14#06#Alemanha Oriental#2#0#Austrália#Hamburgo
+1974#GRUPO A#18#06#Alemanha Ocidental#3#0#Austrália#Hamburgo
+1974#GRUPO A#18#06#Alemanha Oriental#1#1#Chile#Berlim
+1974#GRUPO A#22#06#Austrália#0#0#Chile#Berlim
+1974#GRUPO A#22#06#Alemanha Oriental#1#0#Alemanha Ocidental#Hamburgo
+1974#GRUPO B#13#06#Brasil#0#0#Iugoslávia#Frankfurt
+1974#GRUPO B#14#06#Escócia#2#0#Zaire#Dortmund
+1974#GRUPO B#18#06#Brasil#0#0#Escócia#Frankfurt
+1974#GRUPO B#18#06#Iugoslávia#9#0#Zaire#Gelsenkirchen
+1974#GRUPO B#22#06#Escócia#1#1#Iugoslávia#Frankfurt
+1974#GRUPO B#22#06#Brasil#3#0#Zaire#Gelsenkirchen
+1974#GRUPO C#15#06#Holanda#2#0#Uruguai#Hanover
+1974#GRUPO C#15#06#Bulgária#0#0#Suécia#Colônia
+1974#GRUPO C#19#06#Holanda#0#0#Suécia#Dortmund
+1974#GRUPO C#19#06#Bulgária#1#1#Uruguai#Hanover
+1974#GRUPO C#23#06#Holanda#4#1#Bulgária#Dortmund
+1974#GRUPO C#23#06#Suécia#3#0#Uruguai#Colônia
+1974#GRUPO D#15#06#Itália#3#1#Haiti#Berlim
+1974#GRUPO D#15#06#Polônia#3#2#Argentina#Stuttgart
+1974#GRUPO D#19#06#Argentina#1#1#Itália#Stuttgart
+1974#GRUPO D#19#06#Polônia#7#0#Haiti#Berlim
+1974#GRUPO D#23#06#Argentina#4#1#Haiti#Berlim
+1974#GRUPO D#23#06#Polônia#2#1#Itália#Stuttgart
+1974#SEGUNDA FASE - GRUPO 1#26#06#Holanda#4#0#Argentina#Gelsenkirchen
+1974#SEGUNDA FASE - GRUPO 1#26#06#Brasil#1#0#Alemanha Oriental#Hanover
+1974#SEGUNDA FASE - GRUPO 1#30#06#Holanda#2#0#Alemanha Oriental#Gelsenkirchen
+1974#SEGUNDA FASE - GRUPO 1#30#06#Brasil#2#1#Argentina#Hanover
+1974#SEGUNDA FASE - GRUPO 1#03#07#Holanda#2#0#Brasil#Dortmund
+1974#SEGUNDA FASE - GRUPO 1#03#07#Argentina#1#1#Alemanha Oriental#Gelsenkirchen
+1974#SEGUNDA FASE - GRUPO 2#26#06#Polônia#1#0#Suécia#Stuttgart
+1974#SEGUNDA FASE - GRUPO 2#26#06#Alemanha Ocidental#2#0#Iugoslávia#Colônia
+1974#SEGUNDA FASE - GRUPO 2#30#06#Polônia#2#1#Iugoslávia#Frankfurt
+1974#SEGUNDA FASE - GRUPO 2#30#06#Alemanha Ocidental#4#2#Suécia#Colônia
+1974#SEGUNDA FASE - GRUPO 2#03#07#Suécia#2#1#Iugoslávia#Colônia
+1974#SEGUNDA FASE - GRUPO 2#03#07#Alemanha Ocidental#1#0#Polônia#Frankfurt
+1974#Disp. 3°. Lugar#06#07#Polônia#1#0#Brasil#Berlim
+1974#FINAL#07#07#Alemanha Ocidental#2#1#Holanda#Berlim
+1978#GRUPO A#02#06#Itália#2#1#França#Mar del Plata
+1978#GRUPO A#02#06#Argentina#2#1#Hungria#Buenos Aires
+1978#GRUPO A#06#06#Itália#3#1#Hungria#Mar del Plata
+1978#GRUPO A#06#06#Argentina#2#1#França#Buenos Aires
+1978#GRUPO A#10#06#França#3#1#Hungria#Mar del Plata
+1978#GRUPO A#10#06#Itália#1#0#Argentina#Buenos Aires
+1978#GRUPO B#01#06#Polônia#0#0#Alemanha Ocidental#Buenos Aires
+1978#GRUPO B#02#06#Tunísia#3#1#México#Rosario
+1978#GRUPO B#06#06#Polônia#1#0#Tunísia#Rosario
+1978#GRUPO B#06#06#Alemanha Ocidental#6#0#México#Cordoba
+1978#GRUPO B#10#06#Tunísia#0#0#Alemanha Ocidental#Cordoba
+1978#GRUPO B#10#06#Polônia#3#1#México#Rosario
+1978#GRUPO C#03#06#Brasil#1#1#Suécia#Mar del Plata
+1978#GRUPO C#03#06#Áustria#2#1#Espanha#Buenos Aires
+1978#GRUPO C#07#06#Áustria#1#0#Suécia#Buenos Aires
+1978#GRUPO C#07#06#Brasil#0#0#Espanha#Mar del Plata
+1978#GRUPO C#11#06#Brasil#1#0#Áustria#Mar del Plata
+1978#GRUPO C#11#06#Espanha#1#0#Suécia#Buenos Aires
+1978#GRUPO D#03#06#Holanda#3#0#Irã#Mendoza
+1978#GRUPO D#03#06#Peru#3#1#Escócia#Cordoba
+1978#GRUPO D#07#06#Holanda#0#0#Peru#Mendoza
+1978#GRUPO D#07#06#Irã#1#1#Escócia#Cordoba
+1978#GRUPO D#11#06#Escócia#3#2#Holanda#Mendoza
+1978#GRUPO D#11#06#Peru#4#1#Irã#Cordoba
+1978#SEGUNDA FASE - GRUPO 1#14#06#Itália#0#0#Alemanha Ocidental#Buenos Aires
+1978#SEGUNDA FASE - GRUPO 1#14#06#Holanda#5#1#Áustria#Cordoba
+1978#SEGUNDA FASE - GRUPO 1#18#06#Holanda#2#2#Alemanha Ocidental#Cordoba
+1978#SEGUNDA FASE - GRUPO 1#18#06#Itália#1#0#Áustria#Buenos Aires
+1978#SEGUNDA FASE - GRUPO 1#21#06#Holanda#2#1#Itália#Buenos Aires
+1978#SEGUNDA FASE - GRUPO 1#21#06#Áustria#3#2#Alemanha Ocidental#Cordoba
+1978#SEGUNDA FASE - GRUPO 2#14#06#Brasil#3#0#Peru#Mendoza
+1978#SEGUNDA FASE - GRUPO 2#14#06#Argentina#2#0#Polônia#Rosario
+1978#SEGUNDA FASE - GRUPO 2#18#06#Polônia#1#0#Peru#Mendoza
+1978#SEGUNDA FASE - GRUPO 2#18#06#Argentina#0#0#Brasil#Rosario
+1978#SEGUNDA FASE - GRUPO 2#21#06#Brasil#3#1#Polônia#Mendoza
+1978#SEGUNDA FASE - GRUPO 2#21#06#Argentina#6#0#Peru#Rosario
+1978#Disp. 3°. Lugar#24#06#Brasil#2#1#Itália#Buenos Aires
+1978#FINAL#25#06#Argentina#3#1#Holanda#Buenos Aires
+1982#GRUPO A#14#06#Itália#0#0#Polônia#Vigo
+1982#GRUPO A#15#06#Camarões#0#0#Peru#Corunha
+1982#GRUPO A#18#06#Itália#1#1#Peru#Vigo
+1982#GRUPO A#19#06#Camarões#0#0#Polônia#Corunha
+1982#GRUPO A#22#06#Polônia#5#1#Peru#Corunha
+1982#GRUPO A#23#06#Itália#1#1#Camarões#Vigo
+1982#GRUPO B#16#06#Argélia#2#1#Alemanha Ocidental#Gijón
+1982#GRUPO B#17#06#Áustria#1#0#Chile#Oviedo
+1982#GRUPO B#20#06#Alemanha Ocidental#4#1#Chile#Gijón
+1982#GRUPO B#21#06#Áustria#2#0#Argélia#Oviedo
+1982#GRUPO B#24#06#Argélia#3#2#Chile#Oviedo
+1982#GRUPO B#25#06#Alemanha Ocidental#1#0#Áustria#Vigo
+1982#GRUPO C#13#06#Bélgica#1#0#Argentina#Barcelona
+1982#GRUPO C#15#06#Hungria#10#1#El Salvador#Elche
+1982#GRUPO C#18#06#Argentina#4#1#Hungria#Alicante
+1982#GRUPO C#19#06#Bélgica#1#0#El Salvador#Elche
+1982#GRUPO C#22#06#Bélgica#1#1#Hungria#Elche
+1982#GRUPO C#23#06#Argentina#2#0#El Salvador#Alicante
+1982#GRUPO D#16#06#Inglaterra#3#1#França#Bilbau
+1982#GRUPO D#17#06#Tchecoslováquia#1#1#Kuwait#Valladolid
+1982#GRUPO D#20#06#Inglaterra#2#0#Tchecoslováquia#Bilbau
+1982#GRUPO D#21#06#França#4#1#Kuwait#Valladolid
+1982#GRUPO D#24#06#Tchecoslováquia#1#1#França#Valladolid
+1982#GRUPO D#25#06#Inglaterra#1#0#Kuwait#Bilbau
+1982#GRUPO E#16#06#Honduras#1#1#Espanha#Valência
+1982#GRUPO E#17#06#Irlanda do Norte#0#0#Iugoslávia#Zaragoza
+1982#GRUPO E#20#06#Espanha#2#1#Iugoslávia#Valência
+1982#GRUPO E#21#06#Honduras#1#1#Irlanda do Norte#Zaragoza
+1982#GRUPO E#24#06#Iugoslávia#1#0#Honduras#Zaragoza
+1982#GRUPO E#25#06#Irlanda do Norte#1#0#Espanha#Valência
+1982#GRUPO F#14#06#Brasil#2#1#União Soviética#Sevilla
+1982#GRUPO F#15#06#Escócia#5#2#Nova Zelândia#Málaga
+1982#GRUPO F#18#06#Brasil#4#1#Escócia#Sevilla
+1982#GRUPO F#19#06#União Soviética#3#0#Nova Zelândia#Málaga
+1982#GRUPO F#22#06#Escócia#2#2#União Soviética#Málaga
+1982#GRUPO F#23#06#Brasil#4#0#Nova Zelândia#Sevilla
+1982#SEGUNDA FASE - GRUPO 1#28#06#Polônia#3#0#Bélgica#Barcelona
+1982#SEGUNDA FASE - GRUPO 1#01#07#União Soviética#1#0#Bélgica#Barcelona
+1982#SEGUNDA FASE - GRUPO 1#04#07#Polônia#0#0#União Soviética#Barcelona
+1982#SEGUNDA FASE - GRUPO 2#29#06#Inglaterra#0#0#Alemanha Ocidental#Madri
+1982#SEGUNDA FASE - GRUPO 2#02#07#Alemanha Ocidental#2#1#Espanha#Madri
+1982#SEGUNDA FASE - GRUPO 2#05#07#Inglaterra#0#0#Espanha#Madri
+1982#SEGUNDA FASE - GRUPO 3#29#06#Itália#2#1#Argentina#Barcelona
+1982#SEGUNDA FASE - GRUPO 3#02#07#Brasil#3#1#Argentina#Barcelona
+1982#SEGUNDA FASE - GRUPO 3#05#07#Itália#3#2#Brasil#Barcelona
+1982#SEGUNDA FASE - GRUPO 4#28#06#França#1#0#Áustria#Madri
+1982#SEGUNDA FASE - GRUPO 4#01#07#Áustria#2#2#Irlanda do Norte#Madri
+1982#SEGUNDA FASE - GRUPO 4#04#07#França#4#1#Irlanda do Norte#Madri
+1982#SEMIFINAL#08#07#Itália#2#0#Polônia#Barcelona
+1982#SEMIFINAL#08#07#Alemanha Ocidental#3#3#França#Sevilla
+1982#Disp. 3°. Lugar#10#07#Polônia#3#2#França#Alicante
+1982#FINAL#11#07#Itália#3#1#Alemanha Ocidental#Madri
+1986#GRUPO A#31#05#Itália#1#1#Bulgária#Cidade do México
+1986#GRUPO A#02#06#Argentina#3#1#Coreia do Sul#Cidade do México
+1986#GRUPO A#05#06#Argentina#1#1#Itália#Puebla
+1986#GRUPO A#05#06#Bulgária#1#1#Coreia do Sul#Cidade do México
+1986#GRUPO A#10#06#Argentina#2#0#Bulgária#Cidade do México
+1986#GRUPO A#10#06#Itália#3#2#Coreia do Sul#Puebla
+1986#GRUPO B#03#06#México#2#1#Bélgica#Cidade do México
+1986#GRUPO B#04#06#Paraguai#1#0#Iraque#Toluca
+1986#GRUPO B#07#06#México#1#1#Paraguai#Cidade do México
+1986#GRUPO B#08#06#Bélgica#2#1#Iraque#Toluca
+1986#GRUPO B#11#06#Bélgica#2#2#Paraguai#Toluca
+1986#GRUPO B#11#06#México#1#0#Iraque#Puebla
+1986#GRUPO C#01#06#França#1#0#Canadá#Leon
+1986#GRUPO C#02#06#União Soviética#6#0#Hungria#Irapuato
+1986#GRUPO C#05#06#França#1#1#União Soviética#Leon
+1986#GRUPO C#06#06#Hungria#2#0#Canadá#Irapuato
+1986#GRUPO C#09#06#França#3#0#Hungria#Leon
+1986#GRUPO C#09#06#União Soviética#2#0#Canadá#Irapuato
+1986#GRUPO D#01#06#Brasil#1#0#Espanha#Guadalajara
+1986#GRUPO D#03#06#Argélia#1#1#Irlanda do Norte#Guadalajara
+1986#GRUPO D#06#06#Brasil#1#0#Argélia#Guadalajara
+1986#GRUPO D#07#06#Espanha#2#1#Irlanda do Norte#Guadalajara
+1986#GRUPO D#12#06#Brasil#3#0#Irlanda do Norte#Guadalajara
+1986#GRUPO D#12#06#Espanha#3#0#Argélia#Monterrey
+1986#GRUPO E#04#06#Alemanha Ocidental#1#1#Uruguai#Queretaro
+1986#GRUPO E#04#06#Dinamarca#1#0#Escócia#Nezahualcoyotl
+1986#GRUPO E#08#06#Alemanha Ocidental#2#1#Escócia#Queretaro
+1986#GRUPO E#08#06#Dinamarca#6#1#Uruguai#Nezahualcoyotl
+1986#GRUPO E#13#06#Dinamarca#2#0#Alemanha Ocidental#Queretaro
+1986#GRUPO E#13#06#Escócia#0#0#Uruguai#Nezahualcoyotl
+1986#GRUPO F#02#06#Marrocos#0#0#Polônia#Monterrey
+1986#GRUPO F#03#06#Portugal#1#0#Inglaterra#Monterrey
+1986#GRUPO F#06#06#Inglaterra#0#0#Marrocos#Monterrey
+1986#GRUPO F#07#06#Polônia#1#0#Portugal#Monterrey
+1986#GRUPO F#11#06#Inglaterra#3#0#Polônia#Monterrey
+1986#GRUPO F#11#06#Marrocos#3#1#Portugal#Monterrey
+1986#OITAVAS-DE-FINAL#15#06#México#2#0#Bulgária#Cidade do México
+1986#OITAVAS-DE-FINAL#15#06#Bélgica#4#3#União Soviética#Leon
+1986#OITAVAS-DE-FINAL#16#06#Brasil#4#0#Polônia#Guadalajara
+1986#OITAVAS-DE-FINAL#16#06#Argentina#1#0#Uruguai#Puebla
+1986#OITAVAS-DE-FINAL#17#06#França#2#0#Itália#Cidade do México
+1986#OITAVAS-DE-FINAL#17#06#Alemanha Ocidental#1#0#Marrocos#Monterrey
+1986#OITAVAS-DE-FINAL#18#06#Inglaterra#3#0#Paraguai#Cidade do México
+1986#OITAVAS-DE-FINAL#18#06#Espanha#5#1#Dinamarca#Queretaro
+1986#QUARTAS-DE-FINAL#21#06#França#1#1#Brasil#Guadalajara
+1986#QUARTAS-DE-FINAL#21#06#Alemanha Ocidental#0#0#México#Monterrey
+1986#QUARTAS-DE-FINAL#22#06#Argentina#2#1#Inglaterra#Cidade do México
+1986#QUARTAS-DE-FINAL#22#06#Bélgica#1#1#Espanha#Puebla
+1986#SEMIFINAL#25#06#Alemanha Ocidental#2#0#França#Guadalajara
+1986#SEMIFINAL#25#06#Argentina#2#0#Bélgica#Cidade do México
+1986#Disp. 3°. Lugar#28#06#França#4#2#Bélgica#Puebla
+1986#FINAL#29#06#Argentina#3#2#Alemanha Ocidental#Cidade do México
+1990#GRUPO A#09#06#Itália#1#0#Áustria#Roma
+1990#GRUPO A#10#06#Tchecoslováquia#5#1#Estados Unidos#Florence
+1990#GRUPO A#14#06#Itália#1#0#Estados Unidos#Roma
+1990#GRUPO A#15#06#Tchecoslováquia#1#0#Áustria#Florence
+1990#GRUPO A#19#06#Itália#2#0#Tchecoslováquia#Roma
+1990#GRUPO A#19#06#Áustria#2#1#Estados Unidos#Florence
+1990#GRUPO B#08#06#Camarões#1#0#Argentina#Milão
+1990#GRUPO B#09#06#Romênia#2#0#União Soviética#Bari
+1990#GRUPO B#13#06#Argentina#2#0#União Soviética#Napoli
+1990#GRUPO B#14#06#Camarões#2#1#Romênia#Bari
+1990#GRUPO B#18#06#União Soviética#4#0#Camarões#Roma
+1990#GRUPO B#18#06#Argentina#1#1#Romênia#Napoli
+1990#GRUPO C#10#06#Brasil#2#1#Suécia#Turim
+1990#GRUPO C#11#06#Costa Rica#1#0#Escócia#Genoa
+1990#GRUPO C#16#06#Brasil#1#0#Costa Rica#Turim
+1990#GRUPO C#16#06#Escócia#2#1#Suécia#Genoa
+1990#GRUPO C#20#06#Costa Rica#2#1#Suécia#Genoa
+1990#GRUPO C#20#06#Brasil#1#0#Escócia#Turim
+1990#GRUPO D#09#06#Colômbia#2#0#Emirados Arabes#Bologna
+1990#GRUPO D#10#06#Alemanha Ocidental#4#1#Iugoslávia#Milão
+1990#GRUPO D#14#06#Iugoslávia#1#0#Colômbia#Bologna
+1990#GRUPO D#15#06#Alemanha Ocidental#5#1#Emirados Arabes#Milão
+1990#GRUPO D#19#06#Colômbia#1#1#Alemanha Ocidental#Milão
+1990#GRUPO D#19#06#Iugoslávia#4#1#Emirados Arabes#Bologna
+1990#GRUPO E#12#06#Bélgica#2#0#Coreia do Sul#Verona
+1990#GRUPO E#13#06#Espanha#0#0#Uruguai#Udine
+1990#GRUPO E#17#06#Espanha#3#1#Coreia do Sul#Udine
+1990#GRUPO E#17#06#Bélgica#3#1#Uruguai#Verona
+1990#GRUPO E#21#06#Espanha#2#1#Bélgica#Milão
+1990#GRUPO E#21#06#Uruguai#1#0#Coreia do Sul#Udine
+1990#GRUPO F#11#06#Inglaterra#1#1#Irlanda#Cagliari
+1990#GRUPO F#12#06#Egito#1#1#Holanda#Palermo
+1990#GRUPO F#16#06#Inglaterra#0#0#Holanda#Cagliari
+1990#GRUPO F#17#06#Egito#0#0#Irlanda#Palermo
+1990#GRUPO F#21#06#Inglaterra#1#0#Egito#Cagliari
+1990#GRUPO F#21#06#Holanda#1#1#Irlanda#Palermo
+1990#OITAVAS-DE-FINAL#23#06#Camarões#2#1#Colômbia#Napoli
+1990#OITAVAS-DE-FINAL#23#06#Tchecoslováquia#4#1#Costa Rica#Bari
+1990#OITAVAS-DE-FINAL#24#06#Argentina#1#0#Brasil#Turim
+1990#OITAVAS-DE-FINAL#24#06#Alemanha Ocidental#2#1#Holanda#Milão
+1990#OITAVAS-DE-FINAL#25#06#Irlanda#0#0#Romênia#Genoa
+1990#OITAVAS-DE-FINAL#25#06#Itália#2#0#Uruguai#Roma
+1990#OITAVAS-DE-FINAL#26#06#Iugoslávia#2#1#Espanha#Roma
+1990#OITAVAS-DE-FINAL#26#06#Inglaterra#1#0#Bélgica#Bologna
+1990#QUARTAS-DE-FINAL#30#06#Argentina#0#0#Iugoslávia#Florence
+1990#QUARTAS-DE-FINAL#30#06#Itália#1#0#Irlanda#Roma
+1990#QUARTAS-DE-FINAL#01#07#Alemanha Ocidental#1#0#Tchecoslováquia#Milão
+1990#QUARTAS-DE-FINAL#01#07#Inglaterra#3#2#Camarões#Napoli
+1990#SEMIFINAL#03#07#Argentina#1#1#Itália#Napoli
+1990#SEMIFINAL#04#07#Alemanha Ocidental#1#1#Inglaterra#Turim
+1990#Disp. 3°. Lugar#07#07#Itália#2#1#Inglaterra#Bari
+1990#FINAL#08#07#Alemanha Ocidental#1#0#Argentina#Roma
+1994#GRUPO A#18#06#Estados Unidos#1#1#Suíça#Detroit
+1994#GRUPO A#18#06#Romênia#3#1#Colômbia#Los Angeles
+1994#GRUPO A#22#06#Suíça#4#1#Romênia#Roma
+1994#GRUPO A#22#06#Estados Unidos#2#1#Colômbia#Los Angeles
+1994#GRUPO A#26#06#Colômbia#2#0#Suíça#San Francisco
+1994#GRUPO A#26#06#Romênia#1#0#Estados Unidos#Los Angeles
+1994#GRUPO B#19#06#Suécia#2#2#Camarões#Los Angeles
+1994#GRUPO B#20#06#Brasil#2#0#Rússia#San Francisco
+1994#GRUPO B#24#06#Brasil#3#0#Camarões#San Francisco
+1994#GRUPO B#24#06#Suécia#3#1#Rússia#Detroit
+1994#GRUPO B#28#06#Rússia#6#1#Camarões#San Francisco
+1994#GRUPO B#28#06#Brasil#1#1#Suécia#Detroit
+1994#GRUPO C#17#06#Alemanha#1#0#Bolivia#Chicago
+1994#GRUPO C#17#06#Coreia do Sul#2#2#Espanha#Dallas
+1994#GRUPO C#21#06#Alemanha#1#1#Espanha#Chicago
+1994#GRUPO C#23#06#Bolivia#0#0#Coreia do Sul#Boston
+1994#GRUPO C#27#06#Espanha#3#1#Bolivia#Chicago
+1994#GRUPO C#27#06#Alemanha#3#2#Coreia do Sul#Dallas
+1994#GRUPO D#21#06#Argentina#4#0#Grécia#Boston
+1994#GRUPO D#21#06#Nigéria#3#0#Bulgária#Dallas
+1994#GRUPO D#25#06#Argentina#2#1#Nigéria#Boston
+1994#GRUPO D#26#06#Bulgária#4#0#Grécia#Chicago
+1994#GRUPO D#30#06#Nigéria#2#0#Grécia#Boston
+1994#GRUPO D#30#06#Bulgária#2#0#Argentina#Dallas
+1994#GRUPO E#18#06#Irlanda#1#0#Itália#New York
+1994#GRUPO E#19#06#Noruega#1#0#México#Washington DC
+1994#GRUPO E#23#06#Itália#1#0#Noruega#New York
+1994#GRUPO E#24#06#México#2#1#Irlanda#Orlando
+1994#GRUPO E#28#06#Irlanda#0#0#Noruega#Boston
+1994#GRUPO E#28#06#Itália#1#1#México#Washington DC
+1994#GRUPO F#19#06#Bélgica#1#0#Marrocos#Orlando
+1994#GRUPO F#20#06#Holanda#2#1#Arábia Saudita#Washington DC
+1994#GRUPO F#25#06#Bélgica#1#0#Holanda#Orlando
+1994#GRUPO F#25#06#Arábia Saudita#2#1#Marrocos#New York
+1994#GRUPO F#29#06#Holanda#2#1#Marrocos#Orlando
+1994#GRUPO F#29#06#Arábia Saudita#1#0#Bélgica#Washington DC
+1994#OITAVAS-DE-FINAL#02#07#Alemanha#3#2#Bélgica#Chicago
+1994#OITAVAS-DE-FINAL#02#07#Espanha#3#0#Suíça#Washington DC
+1994#OITAVAS-DE-FINAL#03#07#Suécia#3#1#Arábia Saudita#Dallas
+1994#OITAVAS-DE-FINAL#03#07#Romênia#3#2#Argentina#Los Angeles
+1994#OITAVAS-DE-FINAL#04#07#Holanda#2#0#Irlanda#Orlando
+1994#OITAVAS-DE-FINAL#04#07#Brasil#1#0#Estados Unidos#San Francisco
+1994#OITAVAS-DE-FINAL#05#07#Itália#2#1#Nigéria#Boston
+1994#OITAVAS-DE-FINAL#05#07#Bulgária#1#1#México#New York
+1994#QUARTAS-DE-FINAL#09#07#Itália#2#1#Espanha#Boston
+1994#QUARTAS-DE-FINAL#09#07#Brasil#3#2#Holanda#Dallas
+1994#QUARTAS-DE-FINAL#10#07#Bulgária#2#1#Alemanha#New York
+1994#QUARTAS-DE-FINAL#10#07#Suécia#2#2#Romênia#San Francisco
+1994#SEMIFINAL#13#07#Itália#2#1#Bulgária#New York
+1994#SEMIFINAL#13#07#Brasil#1#0#Suécia#Los Angeles
+1994#Disp. 3°. Lugar#16#07#Suécia#4#0#Bulgária#Los Angeles
+1994#FINAL#17#07#Brasil#0#0#Itália#Los Angeles
+1998#GRUPO A#10#06#Brasil#2#1#Escócia#St. Denis
+1998#GRUPO A#10#06#Noruega#2#2#Marrocos#Montpellier
+1998#GRUPO A#16#06#Escócia#1#1#Noruega#Bordeaux
+1998#GRUPO A#16#06#Brasil#3#0#Marrocos#Nantes
+1998#GRUPO A#23#06#Noruega#2#1#Brasil#Marseille
+1998#GRUPO A#23#06#Marrocos#3#0#Escócia#Saint Etienne
+1998#GRUPO B#11#06#Itália#2#2#Chile#Bordeaux
+1998#GRUPO B#11#06#Áustria#1#1#Camarões#Toulouse
+1998#GRUPO B#17#06#Áustria#1#1#Chile#Saint Etienne
+1998#GRUPO B#17#06#Itália#3#0#Camarões#Montpellier
+1998#GRUPO B#23#06#Itália#2#1#Áustria#St. Denis
+1998#GRUPO B#23#06#Chile#1#1#Camarões#Nantes
+1998#GRUPO C#12#06#Dinamarca#1#0#Arábia Saudita#Lens
+1998#GRUPO C#12#06#França#3#0#África do Sul#Marseilles
+1998#GRUPO C#18#06#Dinamarca#1#1#África do Sul#Toulouse
+1998#GRUPO C#18#06#França#4#0#Arábia Saudita#St. Denis
+1998#GRUPO C#24#06#França#2#1#Dinamarca#Lens
+1998#GRUPO C#24#06#Arábia Saudita#2#2#África do Sul#Bordeaux
+1998#GRUPO D#12#06#Bulgária#0#0#Paraguai#Montpellier
+1998#GRUPO D#13#06#Nigéria#3#2#Espanha#Nantes
+1998#GRUPO D#19#06#Nigéria#1#0#Bulgária#Paris
+1998#GRUPO D#19#06#Espanha#0#0#Paraguai#St. Etienne
+1998#GRUPO D#24#06#Espanha#6#1#Bulgária#Lens
+1998#GRUPO D#24#06#Paraguai#3#1#Nigéria#Toulouse
+1998#GRUPO E#13#06#México#3#1#Coreia do Sul#Lens
+1998#GRUPO E#13#06#Bélgica#0#0#Holanda#St. Denis
+1998#GRUPO E#20#06#Bélgica#2#2#México#Bordeaux
+1998#GRUPO E#20#06#Holanda#5#0#Coreia do Sul#Marseille
+1998#GRUPO E#25#06#Holanda#2#2#México#St. Etienne
+1998#GRUPO E#25#06#Bélgica#1#1#Coreia do Sul#Paris
+1998#GRUPO F#14#06#Iugoslávia#1#0#Irã#St. Etienne
+1998#GRUPO F#15#06#Alemanha#2#0#Estados Unidos#Paris
+1998#GRUPO F#21#06#Alemanha#2#2#Iugoslávia#Lens
+1998#GRUPO F#21#06#Irã#2#1#Estados Unidos#Lyon
+1998#GRUPO F#25#06#Alemanha#2#0#Irã#Montpellier
+1998#GRUPO F#25#06#Iugoslávia#1#0#Estados Unidos#Nantes
+1998#GRUPO G#15#06#Inglaterra#2#0#Tunísia#Marseilles
+1998#GRUPO G#15#06#Romênia#1#0#Colômbia#Lyon
+1998#GRUPO G#22#06#Colômbia#1#0#Tunísia#Montpellier
+1998#GRUPO G#22#06#Romênia#2#1#Inglaterra#Toulouse
+1998#GRUPO G#26#06#Romênia#1#1#Tunísia#St. Denis
+1998#GRUPO G#26#06#Inglaterra#2#0#Colômbia#Lens
+1998#GRUPO H#14#06#Argentina#1#0#Japão#Toulouse
+1998#GRUPO H#14#06#Croácia#3#1#Jamaica#Lens
+1998#GRUPO H#20#06#Croácia#1#0#Japão#Nantes
+1998#GRUPO H#21#06#Argentina#5#0#Jamaica#Paris
+1998#GRUPO H#26#06#Argentina#1#0#Croácia#Bordeaux
+1998#GRUPO H#26#06#Jamaica#2#1#Japão#Lens
+1998#OITAVAS-DE-FINAL#27#06#Itália#1#0#Noruega#Marseille
+1998#OITAVAS-DE-FINAL#27#06#Brasil#4#1#Chile#Paris
+1998#OITAVAS-DE-FINAL#28#06#França#1#0#Paraguai#Lens
+1998#OITAVAS-DE-FINAL#28#06#Dinamarca#4#1#Nigéria#St. Denis
+1998#OITAVAS-DE-FINAL#29#06#Alemanha#2#1#México#St. Denis
+1998#OITAVAS-DE-FINAL#29#06#Holanda#2#1#Iugoslávia#Toulouse
+1998#OITAVAS-DE-FINAL#30#06#Croácia#1#0#Romênia#Bordeaux
+1998#OITAVAS-DE-FINAL#30#06#Argentina#2#2#Inglaterra#St. Etienne
+1998#QUARTAS-DE-FINAL#03#07#França#0#0#Itália#St. Denis
+1998#QUARTAS-DE-FINAL#03#07#Brasil#3#2#Dinamarca#Nantes
+1998#QUARTAS-DE-FINAL#04#07#Holanda#2#1#Argentina#Marseilles
+1998#QUARTAS-DE-FINAL#04#07#Croácia#3#0#Alemanha#Lyon
+1998#SEMIFINAL#07#07#Brasil#1#1#Holanda#Marseille
+1998#SEMIFINAL#08#07#França#2#1#Croácia#St. Denis
+1998#Disp. 3°. Lugar#11#07#Croácia#2#1#Holanda#Paris
+1998#FINAL#12#07#França#3#0#Brasil#St. Denis
+2002#GRUPO A#31#05#França#0#1#Senegal#Seoul
+2002#GRUPO A#01#06#Uruguai#1#2#Dinamarca#Ulsan
+2002#GRUPO A#06#06#França#0#0#Uruguai#Busan
+2002#GRUPO A#06#06#Dinamarca#1#1#Senegal#Daegu
+2002#GRUPO A#11#06#Senegal#3#3#Uruguai#Suwon
+2002#GRUPO A#11#06#Dinamarca#2#0#França#Incheon
+2002#GRUPO B#02#06#Espanha#3#1#Eslovênia#Gwangju
+2002#GRUPO B#02#06#Paraguai#2#2#África do Sul#Busan
+2002#GRUPO B#07#06#Espanha#3#1#Paraguai#Jeonju
+2002#GRUPO B#08#06#África do Sul#1#0#Eslovênia#Daegu
+2002#GRUPO B#12#06#Espanha#3#2#África do Sul#Daejeon
+2002#GRUPO B#12#06#Paraguai#3#1#Eslovênia#Seogwipo
+2002#GRUPO C#03#06#Brasil#2#1#Turquia#Ulsan
+2002#GRUPO C#04#06#Costa Rica#2#0#China#Gwangju
+2002#GRUPO C#08#06#Brasil#4#0#China#Seogwipo
+2002#GRUPO C#09#06#Costa Rica#1#1#Turquia#Incheon
+2002#GRUPO C#13#06#Brasil#5#2#Costa Rica#Suwon
+2002#GRUPO C#13#06#Turquia#3#0#China#Seoul
+2002#GRUPO D#04#06#Coreia do Sul#2#0#Polônia#Busan
+2002#GRUPO D#05#06#Estados Unidos#3#2#Portugal#Suwon
+2002#GRUPO D#10#06#Coreia do Sul#1#1#Estados Unidos#Daegu
+2002#GRUPO D#10#06#Portugal#4#0#Polônia#Jeonju
+2002#GRUPO D#14#06#Coreia do Sul#1#0#Portugal#Incheon
+2002#GRUPO D#14#06#Polônia#3#1#Estados Unidos#Daejeon
+2002#GRUPO E#01#06#Irlanda#1#1#Camarões#Niigata
+2002#GRUPO E#01#06#Alemanha#8#0#Arábia Saudita#Sapporo
+2002#GRUPO E#05#06#Alemanha#1#1#Irlanda#Ibaraki
+2002#GRUPO E#06#06#Camarões#1#0#Arábia Saudita#Saitama
+2002#GRUPO E#11#06#Alemanha#2#0#Camarões#Shizuoka
+2002#GRUPO E#11#06#Irlanda#3#0#Arábia Saudita#Yokohama
+2002#GRUPO F#02#06#Inglaterra#1#1#Suécia#Saitama
+2002#GRUPO F#02#06#Argentina#1#0#Nigéria#Ibaraki
+2002#GRUPO F#07#06#Suécia#2#1#Nigéria#Kobe
+2002#GRUPO F#07#06#Inglaterra#1#0#Argentina#Sapporo
+2002#GRUPO F#12#06#Suécia#1#1#Argentina#Miyagi
+2002#GRUPO F#12#06#Inglaterra#0#0#Nigéria#Osaka
+2002#GRUPO G#03#06#México#1#0#Croácia#Niigata
+2002#GRUPO G#03#06#Itália#2#0#Equador#Sapporo
+2002#GRUPO G#08#06#Croácia#2#1#Itália#Ibaraki
+2002#GRUPO G#09#06#México#2#1#Equador#Miyagi
+2002#GRUPO G#13#06#México#1#1#Itália#Oita
+2002#GRUPO G#13#06#Equador#1#0#Croácia#Yokohama
+2002#GRUPO H#04#06#Bélgica#2#2#Japão#Saitama
+2002#GRUPO H#05#06#Rússia#2#0#Tunísia#Kobe
+2002#GRUPO H#09#06#Japão#1#0#Rússia#Yokohama
+2002#GRUPO H#10#06#Bélgica#1#1#Tunísia#Oita
+2002#GRUPO H#14#06#Bélgica#3#2#Rússia#Shizuoka
+2002#GRUPO H#14#06#Japão#2#0#Tunísia#Osaka
+2002#OITAVAS-DE-FINAL#15#06#Alemanha#1#0#Paraguai#Seogwipo
+2002#OITAVAS-DE-FINAL#15#06#Inglaterra#3#0#Dinamarca#Niigata
+2002#OITAVAS-DE-FINAL#16#06#Senegal#2#1#Suécia#Oita
+2002#OITAVAS-DE-FINAL#16#06#Espanha#1#1#Irlanda#Suwon
+2002#OITAVAS-DE-FINAL#17#06#Brasil#2#0#Bélgica#Kobe
+2002#OITAVAS-DE-FINAL#17#06#Estados Unidos#2#0#México#Jeonju
+2002#OITAVAS-DE-FINAL#18#06#Turquia#1#0#Japão#Miyagi
+2002#OITAVAS-DE-FINAL#18#06#Coreia do Sul#2#1#Itália#Daejeon
+2002#QUARTAS-DE-FINAL#21#06#Brasil#2#1#Inglaterra#Shizuoka
+2002#QUARTAS-DE-FINAL#21#06#Alemanha#1#0#Estados Unidos#Ulsan
+2002#QUARTAS-DE-FINAL#22#06#Coreia do Sul#0#0#Espanha#Gwangju
+2002#QUARTAS-DE-FINAL#22#06#Turquia#1#0#Senegal#Osaka
+2002#SEMIFINAL#25#06#Alemanha#1#0#Coreia do Sul#Seoul
+2002#SEMIFINAL#26#06#Brasil#1#0#Turquia#Saitama
+2002#Disp. 3°. Lugar#29#06#Turquia#3#2#Coreia do Sul#Daegu
+2002#FINAL#30#06#Brasil#2#0#Alemanha#Yokohama
+2006#GRUPO A#09#06#Alemanha#4#2#Costa Rica#Munique
+2006#GRUPO A#09#06#Polônia#0#2#Equador#Gelsenkirchen
+2006#GRUPO A#14#06#Alemanha#1#0#Polônia#Dortmund
+2006#GRUPO A#15#06#Equador#3#0#Costa Rica#Hamburgo
+2006#GRUPO A#20#06#Equador#0#3#Alemanha#Berlim
+2006#GRUPO A#20#06#Costa Rica#1#2#Polônia#Hannover
+2006#GRUPO B#10#06#Inglaterra#1#0#Paraguai#Frankfurt
+2006#GRUPO B#10#06#Trinidad e Tobago#0#0#Suécia#Dortmund
+2006#GRUPO B#15#06#Inglaterra#2#0#Trinidad e Tobago#Nuremberg
+2006#GRUPO B#15#06#Suécia#1#0#Paraguai#Berlim
+2006#GRUPO B#20#06#Suécia#2#2#Inglaterra#Colônia
+2006#GRUPO B#20#06#Paraguai#2#0#Trinidad e Tobago#Kaiserslautern
+2006#GRUPO C#10#06#Argentina#2#1#Costa do Marfim#Hamburgo
+2006#GRUPO C#11#06#Sérvia e Montenegro#0#1#Holanda#Leipzig
+2006#GRUPO C#16#06#Argentina#6#0#Sérvia e Montenegro#Gelsenkirchen
+2006#GRUPO C#16#06#Holanda#2#1#Costa do Marfim#Stuttgart
+2006#GRUPO C#21#06#Holanda#0#0#Argentina#Frankfurt
+2006#GRUPO C#21#06#Costa do Marfim#3#2#Sérvia e Montenegro#Munique
+2006#GRUPO D#11#06#México#3#1#Irã#Nuremberg
+2006#GRUPO D#11#06#Angola#0#1#Portugal#Colônia
+2006#GRUPO D#16#06#México#0#0#Angola#Hannover
+2006#GRUPO D#17#06#Portugal#2#0#Irã#Frankfurt
+2006#GRUPO D#21#06#Portugal#2#1#México#Gelsenkirchen
+2006#GRUPO D#21#06#Irã#1#1#Angola#Leipzig
+2006#GRUPO E#12#06#Itália#2#0#Gana#Hannover
+2006#GRUPO E#12#06#Estados Unidos#0#3#República Tcheca#Gelsenkirchen
+2006#GRUPO E#17#06#Itália#1#1#Estados Unidos#Kaiserslautern
+2006#GRUPO E#17#06#República Tcheca#0#2#Gana#Colônia
+2006#GRUPO E#22#06#República Tcheca#0#2#Itália#Hamburgo
+2006#GRUPO E#22#06#Gana#2#1#Estados Unidos#Nuremberg
+2006#GRUPO F#12#06#Austrália#3#1#Japão#Kaiserslautern
+2006#GRUPO F#13#06#Brasil#1#0#Croácia#Berlim
+2006#GRUPO F#18#06#Brasil#2#0#Austrália#Munique
+2006#GRUPO F#18#06#Japão#0#0#Croácia#Nuremberg
+2006#GRUPO F#22#06#Japão#1#4#Brasil#Dortmund
+2006#GRUPO F#22#06#Croácia#2#2#Austrália#Stuttgart
+2006#GRUPO G#13#06#França#0#0#Suíça#Stuttgart
+2006#GRUPO G#13#06#Coreia do Sul#2#1#Togo#Frankfurt
+2006#GRUPO G#18#06#França#1#1#Coreia do Sul#Leipzig
+2006#GRUPO G#19#06#Togo#0#2#Suíça#Dortmund
+2006#GRUPO G#23#06#Togo#0#2#França#Colônia
+2006#GRUPO G#23#06#Suíça#2#0#Coreia do Sul#Hannover
+2006#GRUPO H#14#06#Espanha#4#0#Ucrânia#Leipzig
+2006#GRUPO H#14#06#Tunísia#2#2#Arábia Saudita#Munique
+2006#GRUPO H#19#06#Espanha#3#1#Tunísia#Stuttgart
+2006#GRUPO H#19#06#Arábia Saudita#0#4#Ucrânia#Hamburgo
+2006#GRUPO H#23#06#Arábia Saudita#0#1#Espanha#Kaiserslautern
+2006#GRUPO H#23#06#Ucrânia#1#0#Tunísia#Berlim
+2006#OITAVAS-DE-FINAL#24#06#Alemanha#2#0#Suécia#Munique
+2006#OITAVAS-DE-FINAL#24#06#Argentina#2#1#México#Leipzig
+2006#OITAVAS-DE-FINAL#25#06#Inglaterra#1#0#Equador#Stuttgart
+2006#OITAVAS-DE-FINAL#25#06#Portugal#1#0#Holanda#Nuremberg
+2006#OITAVAS-DE-FINAL#26#06#Itália#1#0#Austrália#Kaiserslautern
+2006#OITAVAS-DE-FINAL#26#06#Suíça#0#0#Ucrânia#Colônia
+2006#OITAVAS-DE-FINAL#27#06#Brasil#3#0#Gana#Dortmund
+2006#OITAVAS-DE-FINAL#27#06#Espanha#1#3#França#Hannover
+2006#QUARTAS-DE-FINAL#30#06#Alemanha#1#1#Argentina#Berlim
+2006#QUARTAS-DE-FINAL#30#06#Itália#3#0#Ucrânia#Hamburgo
+2006#QUARTAS-DE-FINAL#01#07#Inglaterra#0#0#Portugal#Gelsenkirchen
+2006#QUARTAS-DE-FINAL#01#07#Brasil#0#1#França#Frankfurt
+2006#SEMIFINAL#04#07#Alemanha#0#2#Itália#Dortmund
+2006#SEMIFINAL#05#07#Portugal#0#1#França#Munique
+2006#Disp. 3°. Lugar#08#07#Alemanha#3#1#Portugal#Stuttgart
+2006#FINAL#09#07#Itália#1#1#França#Berlim
+2010#GRUPO A#11#06#África do Sul#1#1#México#Joanesburgo
+2010#GRUPO A#11#06#Uruguai#0#0#França#Cidade do Cabo
+2010#GRUPO A#16#06#África do Sul#0#3#Uruguai#Pretória
+2010#GRUPO A#17#06#França#0#2#México#Polokwane
+2010#GRUPO A#22#06#México#0#1#Uruguai#Rustemburgo
+2010#GRUPO A#22#06#França#1#2#África do Sul#Bloemfontein
+2010#GRUPO B#12#06#Argentina#1#0#Nigéria#Joanesburgo
+2010#GRUPO B#12#06#Coreia do Sul#2#0#Grécia#Porto Elizabeth
+2010#GRUPO B#17#06#Grécia#2#1#Nigéria#Bloemfontein
+2010#GRUPO B#17#06#Argentina#4#1#Coreia do Sul#Joanesburgo
+2010#GRUPO B#22#06#Nigéria#2#2#Coreia do Sul#Durban
+2010#GRUPO B#22#06#Grécia#0#2#Argentina#Polokwane
+2010#GRUPO C#12#06#Inglaterra#1#1#Estados Unidos#Rustemburgo
+2010#GRUPO C#13#06#Argélia#0#1#Eslovênia#Polokwane
+2010#GRUPO C#18#06#Eslovênia#2#2#Estados Unidos#Joanesburgo
+2010#GRUPO C#18#06#Inglaterra#0#0#Argélia#Cidade do Cabo
+2010#GRUPO C#23#06#Eslovênia#0#1#Inglaterra#Porto Elizabeth
+2010#GRUPO C#23#06#Estados Unidos#1#0#Argélia#Pretória
+2010#GRUPO D#13#06#Alemanha#4#0#Austrália#Durban
+2010#GRUPO D#13#06#Sérvia#0#1#Gana#Pretória
+2010#GRUPO D#18#06#Alemanha#0#1#Sérvia#Porto Elizabeth
+2010#GRUPO D#19#06#Gana#1#1#Austrália#Rustemburgo
+2010#GRUPO D#23#06#Gana#0#1#Alemanha#Joanesburgo
+2010#GRUPO D#23#06#Austrália#2#1#Sérvia#Nelspruit
+2010#GRUPO E#14#06#Holanda#2#0#Dinamarca#Joanesburgo
+2010#GRUPO E#14#06#Japão#1#0#Camarões#Bloemfontein
+2010#GRUPO E#19#06#Holanda#1#0#Japão#Durban
+2010#GRUPO E#19#06#Camarões#1#2#Dinamarca#Pretória
+2010#GRUPO E#24#06#Dinamarca#1#3#Japão#Rustemburgo
+2010#GRUPO E#24#06#Camarões#1#2#Holanda#Cidade do Cabo
+2010#GRUPO F#14#06#Itália#1#1#Paraguai#Cidade do Cabo
+2010#GRUPO F#15#06#Nova Zelândia#1#1#Eslováquia#Rustemburgo
+2010#GRUPO F#20#06#Eslováquia#0#2#Paraguai#Bloemfontein
+2010#GRUPO F#20#06#Itália#1#1#Nova Zelândia#Nelspruit
+2010#GRUPO F#24#06#Eslováquia#3#2#Itália#Joanesburgo
+2010#GRUPO F#24#06#Paraguai#0#0#Nova Zelândia#Polokwane
+2010#GRUPO G#15#06#Costa do Marfim#0#0#Portugal#Porto Elizabeth
+2010#GRUPO G#15#06#Brasil#2#1#Coreia do Norte#Joanesburgo
+2010#GRUPO G#20#06#Brasil#3#1#Costa do Marfim#Joanesburgo
+2010#GRUPO G#21#06#Portugal#7#0#Coreia do Norte#Cidade do Cabo
+2010#GRUPO G#25#06#Portugal#0#0#Brasil#Durban
+2010#GRUPO G#25#06#Coreia do Norte#0#3#Costa do Marfim#Nelspruit
+2010#GRUPO H#16#06#Honduras#0#1#Chile#Nelspruit
+2010#GRUPO H#16#06#Espanha#0#1#Suíça#Durban
+2010#GRUPO H#21#06#Chile#1#0#Suíça#Porto Elizabeth
+2010#GRUPO H#21#06#Espanha#2#0#Honduras#Joanesburgo
+2010#GRUPO H#25#06#Chile#1#2#Espanha#Pretória
+2010#GRUPO H#25#06#Suíça#0#0#Honduras#Bloemfontein
+2010#OITAVAS-DE-FINAL#26#06#Uruguai#2#1#Coreia do Sul#Porto Elizabeth
+2010#OITAVAS-DE-FINAL#26#06#Estados Unidos#1#2#Gana#Rustemburgo
+2010#OITAVAS-DE-FINAL#27#06#Alemanha#4#1#Inglaterra#Bloemfontein
+2010#OITAVAS-DE-FINAL#27#06#Argentina#3#1#México#Joanesburgo
+2010#OITAVAS-DE-FINAL#28#06#Holanda#2#1#Eslováquia#Durban
+2010#OITAVAS-DE-FINAL#28#06#Brasil#3#0#Chile#Joanesburgo
+2010#OITAVAS-DE-FINAL#29#06#Paraguai#0#0#Japão#Pretória
+2010#OITAVAS-DE-FINAL#29#06#Espanha#1#0#Portugal#Cidade do Cabo
+2010#QUARTAS-DE-FINAL#02#07#Holanda#2#1#Brasil#Porto Elizabeth
+2010#QUARTAS-DE-FINAL#02#07#Uruguai#1#1#Gana#Joanesburgo
+2010#QUARTAS-DE-FINAL#03#07#Argentina#0#4#Alemanha#Cidade do Cabo
+2010#QUARTAS-DE-FINAL#03#07#Paraguai#0#1#Espanha#Joanesburgo
+2010#SEMIFINAL#06#07#Uruguai#2#3#Holanda#Cidade do Cabo
+2010#SEMIFINAL#07#07#Alemanha#0#1#Espanha#Durban
+2010#Disp. 3°. Lugar#10#07#Uruguai#2#3#Alemanha#Porto Elizabeth
+2010#FINAL#11#07#Holanda#0#1#Espanha#Joanesburgo
+2014#GRUPO A#12#06#Brasil#3#1#Croácia#São Paulo
+2014#GRUPO A#13#06#México#1#0#Camarões#Natal
+2014#GRUPO A#17#06#Brasil#0#0#México#Fortaleza
+2014#GRUPO A#18#06#Camarões#0#4#Croácia#Manaus
+2014#GRUPO A#23#06#Camarões#1#4#Brasil#Brasília
+2014#GRUPO A#23#06#Croácia#1#3#México#Recife
+2014#GRUPO B#13#06#Espanha#1#5#Holanda#Salvador
+2014#GRUPO B#13#06#Chile#3#1#Austrália#Cuiabá
+2014#GRUPO B#18#06#Espanha#0#2#Chile#Rio de Janeiro
+2014#GRUPO B#18#06#Austrália#2#3#Holanda#Porto Alegre
+2014#GRUPO B#23#06#Austrália#0#3#Espanha#Curitiba
+2014#GRUPO B#23#06#Holanda#2#0#Chile#São Paulo
+2014#GRUPO C#14#06#Colômbia#3#0#Grécia#Belo Horizonte
+2014#GRUPO C#14#06#Costa do Marfim#2#1#Japão#Recife
+2014#GRUPO C#19#06#Colômbia#2#1#Costa do Marfim#Brasília
+2014#GRUPO C#19#06#Japão#0#0#Grécia#Natal
+2014#GRUPO C#24#06#Japão#1#4#Colômbia#Cuiabá
+2014#GRUPO C#24#06#Grécia#2#1#Costa do Marfim#Fortaleza
+2014#GRUPO D#14#06#Uruguai#1#3#Costa Rica#Fortaleza
+2014#GRUPO D#14#06#Inglaterra#1#2#Itália#Manaus
+2014#GRUPO D#19#06#Uruguai#2#1#Inglaterra#São Paulo
+2014#GRUPO D#20#06#Itália#0#1#Costa Rica#Recife
+2014#GRUPO D#24#06#Itália#0#1#Uruguai#Natal
+2014#GRUPO D#24#06#Costa Rica#0#0#Inglaterra#Belo Horizonte
+2014#GRUPO E#15#06#Suíça#2#1#Equador#Brasília
+2014#GRUPO E#15#06#França#3#0#Honduras#Porto Alegre
+2014#GRUPO E#20#06#Suíça#2#5#França#Salvador
+2014#GRUPO E#20#06#Honduras#1#2#Equador#Curitiba
+2014#GRUPO E#25#06#Honduras#0#3#Suíça#Manaus
+2014#GRUPO E#25#06#Equador#0#0#França#Rio de Janeiro
+2014#GRUPO F#15#06#Argentina#2#1#Bósnia e Herzegovna#Rio de Janeiro
+2014#GRUPO F#16#06#Irã#0#0#Nigéria#Curitiba
+2014#GRUPO F#21#06#Argentina#1#0#Irã#Belo Horizonte
+2014#GRUPO F#21#06#Nigéria#1#0#Bósnia e Herzegovna#Cuiabá
+2014#GRUPO F#25#06#Nigéria#2#3#Argentina#Porto Alegre
+2014#GRUPO F#25#06#Bósnia e Herzegovna#3#1#Irã#Salvador
+2014#GRUPO G#16#06#Alemanha#4#0#Portugal#Salvador
+2014#GRUPO G#16#06#Gana#1#2#Estados Unidos#Natal
+2014#GRUPO G#21#06#Alemanha#2#2#Gana#Fortaleza
+2014#GRUPO G#22#06#Estados Unidos#2#2#Portugal#Manaus
+2014#GRUPO G#26#06#Estados Unidos#0#1#Alemanha#Recife
+2014#GRUPO G#26#06#Portugal#2#1#Gana#Brasília
+2014#GRUPO H#17#06#Bélgica#2#1#Argélia#Belo Horizonte
+2014#GRUPO H#17#06#Rússia#1#1#Coreia do Sul#Cuiabá
+2014#GRUPO H#22#06#Bélgica#1#0#Rússia#Rio de Janeiro
+2014#GRUPO H#22#06#Coreia do Sul#2#4#Argélia#Porto Alegre
+2014#GRUPO H#26#06#Coreia do Sul#0#1#Bélgica#São Paulo
+2014#GRUPO H#26#06#Argélia#1#1#Rússia#Curitiba
+2014#OITAVAS-DE-FINAL#28#06#Brasil#1#1#Chile#Belo Horizonte
+2014#OITAVAS-DE-FINAL#28#06#Colômbia#2#0#Uruguai#Rio de Janeiro
+2014#OITAVAS-DE-FINAL#29#06#Holanda#2#1#México#Fortaleza
+2014#OITAVAS-DE-FINAL#29#06#Costa Rica#1#1#Grécia#Recife
+2014#OITAVAS-DE-FINAL#30#06#França#2#0#Nigéria#Brasília
+2014#OITAVAS-DE-FINAL#30#06#Alemanha#2#1#Argélia#Porto Alegre
+2014#OITAVAS-DE-FINAL#01#07#Argentina#1#0#Suíça#São Paulo
+2014#OITAVAS-DE-FINAL#01#07#Bélgica#2#1#Estados Unidos#Salvador
+2014#QUARTAS-DE-FINAL#04#07#França#0#1#Alemanha#Rio de Janeiro
+2014#QUARTAS-DE-FINAL#04#07#Brasil#2#1#Colômbia#Fortaleza
+2014#QUARTAS-DE-FINAL#05#07#Argentina#1#0#Bélgica#Brasília
+2014#QUARTAS-DE-FINAL#05#07#Holanda#0#0#Costa Rica#Salvador
+2014#SEMIFINAL#08#07#Brasil#1#7#Alemanha#Belo Horizonte
+2014#SEMIFINAL#09#07#Holanda#0#0#Argentina#São Paulo
+2014#Disp. 3°. Lugar#12#07#Brasil#0#3#Holanda#Brasília
+2014#FINAL#13#07#Alemanha#1#0#Argentina#Rio de Janeiro
+2018#GRUPO A#14#06#Russia#5#0#Arábia Saudita#Luzhnik Stadium
+2018#GRUPO A#15#06#Egito#0#1#Uruguai#Ekaterinburg Arena
+2018#GRUPO A#19#06#Russia#3#1#Egito#Saint Petersburg Stadium
+2018#GRUPO A#20#06#Uruguai#1#0#Arábia Saudita#Rostov Arena
+2018#GRUPO A#25#06#Uruguai#3#0#Russia#Samara Arena
+2018#GRUPO A#25#06#Arábia Saudita#2#1#Egito#Volgograd Arena
+2018#GRUPO B#15#06#Marrocos#0#1#Irã#Saint Petersburg Stadium
+2018#GRUPO B#15#06#Portugal#3#3#Espanha#Fisht Stadium
+2018#GRUPO B#20#06#Irã#0#1#Espanha#Kazan Arena
+2018#GRUPO B#20#06#Portugal#1#0#Marrocos#Luzhnik Stadium
+2018#GRUPO B#25#06#Espanha#2#2#Marrocos#Kaliningrad Stadium
+2018#GRUPO B#25#06#Irã#1#1#Portugal#Mordovia Arena
+2018#GRUPO C#16#06#França#2#1#Australia#Kazan Arena
+2018#GRUPO C#16#06#Peru#0#1#Dinamarca#Mordovia Arena
+2018#GRUPO C#21#06#França#1#0#Peru#Ekaterimburg Arena
+2018#GRUPO C#21#06#Dinamarca#1#1#Australia#Samara Arena
+2018#GRUPO C#26#06#Dinamarca#0#0#França#Luzhniki Stadoum
+2018#GRUPO C#26#06#Australia#0#2#Peru#Fisht Stadium
+2018#GRUPO D#16#06#Croácia#2#0#Nigéria#Kaliningrad Stadium
+2018#GRUPO D#16#06#Argentina#1#1#Islândia#Spartak Stadium
+2018#GRUPO D#21#06#Argentina#0#3#Croácia#Nizhny Novgorod Stadium
+2018#GRUPO D#22#06#Nigéria#2#0#Islândia#Volgograd Arena
+2018#GRUPO D#26#06#Islândia#1#2#Croácia#Rostov Arena
+2018#GRUPO D#26#06#Nigéria#1#2#Argentina#Saint Petersburg Stadium
+2018#GRUPO E#17#06#Costa Rica#0#1#Sérvia#Rostov Arena
+2018#GRUPO E#17#06#Brasil#1#1#Suiça#Samara Arena
+2018#GRUPO E#22#06#Brasil#2#0#Costa Rica#Kaliningrad Stadium
+2018#GRUPO E#22#06#Sérvia#1#2#Suiça#Saint Petersburg Stadium
+2018#GRUPO E#27#06#Servia#0#2#Brasil#Spartak Stadium
+2018#GRUPO E#27#06#Suíça#2#2#Cista Rica#Nizhny Novgorod Stadium
+2018#GRUPO F#17#06#Alemanha#0#1#México#Luzhniki Stadium
+2018#GRUPO F#18#06#Suécia#1#0#Coréia do Sul#Nizhny Novgorod Stadium
+2018#GRUPO F#23#06#Alemanha#2#1#Suecia#Rostov Arena
+2018#GRUPO F#23#06#Coreia do Sul#1#2#Mexico#Fisht Stadium
+2018#GRUPO F#27#06#Coreia do Sul#2#0#Alemanha#Ekaterinburg Arena
+2018#GRUPO F#27#06#Mexico#0#3#Suecia#Kazan Arena
+2018#GRUPO G#18#06#Bélgica#3#0#Panamá#Fisht Satdium
+2018#GRUPO G#18#06#Tunisia#1#2#Inglaterra#Volgograd Arena
+2018#GRUPO G#23#06#Belgica#5#2#Tunisia#Spartak Stadium
+2018#GRUPO G#24#06#Inglaterra#6#1#Panamá#Nizhny Novgorod Stadium
+2018#GRUPO G#28#06#Inglaterra#0#1#Belgica#Kaliningrad Stadium
+2018#GRUPO G#28#06#Panamá#1#2#Tunisia#Mordovia Arena
+2018#GRUPO H#19#06#Polonia#1#2#Senegal#Spartak Stadium
+2018#GRUPO H#19#06#Colombia#1#2#Japão#Mordovia Arena
+2018#GRUPO H#24#06#Japão#2#2#Senegal#Ekaterinburg Arena
+2018#GRUPO H#24#06#Polonia#0#3#Colombia#Kazan Arena
+2018#GRUPO H#28#06#Japão#0#1#Polônia#Samara Arena
+2018#GRUPO H#28#06#Senegal#0#1#Colômbia#Volgograd Arena
+2018#OITAVAS-DE-FINAL#30#06#França#4#3#Argentina#Kazan Arena
+2018#OITAVAS-DE-FINAL#30#06#Uruguai#2#1#Portugal#Fisht Stadium
+2018#OITAVAS-DE-FINAL#01#07#Espanha#3#4#Rússia#Luzhnik Stadium
+2018#OITAVAS-DE-FINAL#01#07#Croácia#3#2#Dinamarca#Nizhny Novgorod Stadium
+2018#OITAVAS-DE-FINAL#02#07#Brasil#2#0#México#Samara Arena
+2018#OITAVAS-DE-FINAL#02#07#Bélgica#3#2#Japão#Rostov Arena
+2018#OITAVAS-DE-FINAL#03#07#Suécia#1#0#Suiça#Saint Petersburg Stadium
+2018#OITAVAS-DE-FINAL#03#07#Colombia#3#4#Inglaterra#Spartak Stadium
+2018#QUARTAS-DE-FINAL#06#07#Uruguai#0#2#França#Nizhny Novgorod Stadium
+2018#QUARTAS-DE-FINAL#06#07#Brasil#1#2#Bélgica#Kazan Arena
+2018#QUARTAS-DE-FINAL#07#07#Suécia#0#2#Inglaterra#Samara Arena
+2018#QUARTAS-DE-FINAL#07#07#Rússia#3#4#Croácia#Fisht Stadium
+2018#SEMIFINAL#10#07#França#1#0#Bélgica#Saint Petersburg Stadium
+2018#SEMIFINAL#11#07#Croácia#2#1#Inglaterra#Luzhnik Stadium
+2018#DISPUTA 3° LUGAR#14#07#Belgica#2#0#Inglaterra#Saint Petersburg Stadium
+2018#FINAL#15#07#França#4#2#Croácia#Luzhnik Stadium
